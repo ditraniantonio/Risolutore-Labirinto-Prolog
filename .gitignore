@@ -1,0 +1,17 @@
+# File temporanei di editor comuni
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# File generati da SWI-Prolog
+*.qlf
+*.pro
+
+# File di log generici
+*.log
+
+# File di sistema (Windows/Mac)
+.DS_Store
+Thumbs.db
